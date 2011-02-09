@@ -1,6 +1,6 @@
 [user]
-  name = R.T. Lechow
-  email = rtlechow@gmail.com
+  name = Kurt Davis
+  email = kurt.davis@...com
 [alias]
   pl = pull
   st = status -s
@@ -25,6 +25,8 @@
 [core]
   pager = less
   whitespace = trailing-space
+  eol = lf
+  autocrlf = true
 [color]
   ui = auto
 [color "branch"]
